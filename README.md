@@ -31,6 +31,9 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
   <a href="https://unity.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="50" height="50"/>
   </a>
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="50" height="50"/>
+  </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
