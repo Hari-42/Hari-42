@@ -10,9 +10,6 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
 ### 🚀 What I Do  
 💻 **Skills**:  
 <h4 align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
   <a href="https://www.javascript.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
@@ -25,6 +22,12 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
   </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
   <a href="https://www.microsoft.com/en-us/windows/csharp" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
   </a>
@@ -34,8 +37,11 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
   <a href="https://www.blender.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="50" height="50"/>
   </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
   </a>
 </h4>
 
@@ -47,6 +53,7 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 
 ### 🌟 What I’m Working On  
 🎮 *Santa Frost 2* – A fun little winter-themed adventure I’m developing right now.  
+🖥️ *QR-Code Generator* – A software that let's you generate QR-Codes for texts or links.
 
 🔗 **Find Me Online**: 
 
