@@ -22,7 +22,7 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/windows/csharp" target="_blank">
