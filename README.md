@@ -87,8 +87,9 @@ Thanks for stopping by! Feel free to check out my work or say hi—always happy 
 ---
 <details>
   <p align="center">
-    # 📊 GitHub Stats:
-    ![](https://github-readme-stats.vercel.app/api?username=Hari-42&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    <a href="https://github.com/Hari-42">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hari-42&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </a>
     ![](https://github-readme-streak-stats.herokuapp.com/?user=Hari-42&theme=dark&hide_border=false)<br/>
   </p>
 
