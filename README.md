@@ -55,7 +55,7 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 ---
 
 ### 🌟 What I’m Working On  
-🎮 *Santa Frost 2* – A fun little winter-themed adventure I’m developing right now.  
+🎮 *Santa Frost 2* – A Continuation of the first game
 
 🔗 **Find Me Online**: 
 
