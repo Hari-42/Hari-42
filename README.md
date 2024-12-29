@@ -54,8 +54,9 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 
 ---
 
-### 🌟 What I’m Working On  
-🎮 *Santa Frost 2* – A Continuation of the first game
+### 🌟 What I’m Working On
+
+🎮 *Santa Frost 2* – A Continuation of the first game: Santa Frost
 
 🔗 **Find Me Online**: 
 
@@ -74,7 +75,8 @@ I’m always picking up new skills and experimenting with different tools and te
 
 ---
 
-### 🎉 Fun Fact  
+### 🎉 Fun Fact
+
 I balance my screen time with gym time to stay active and keep my head clear. Coding and working out are my go-to routines.  
 
 ---
