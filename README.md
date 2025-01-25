@@ -8,7 +8,7 @@ When I’m not glued to my computer, I’m probably at the gym, brainstorming ga
 ---
 
 ### 🚀 What I Do  
-💻 **Skills**:  
+💻 **programming languages I used**:  
 <h4 align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
