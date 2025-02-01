@@ -56,7 +56,7 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 
 ### 🌟 What I’m Working On
 
-🖥️ *URL-Shortener: An Application which shortens long links*
+🖥️ *PDF-Bot: A bot who gives you all the answers for a pdf*
 📅 *Agenda project: It's a group project with my friends*
 
 🔗 **Find Me Online**: 
