@@ -56,8 +56,13 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 
 ### 🌟 What I’m Working On
 
-🖥️ *PDF-Bot: A bot who gives you all the answers for a pdf*
+🖥️ *PDF-Bot: A bot who summarizes your pdf* 
+
+🖥️ *PDF-Merger: A website which merges pdfs together* 
+
 📅 *Agenda project: It's a group project with my friends*
+
+
 
 🔗 **Find Me Online**: 
 
