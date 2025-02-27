@@ -73,7 +73,6 @@ I’ve worked on some game projects I’m pretty proud of. Making games that peo
 🔗 **Find Me Online**: 
 
 [![Itch.io](https://img.shields.io/badge/itch.io-white?style=for-the-badge&logo=itch.io)](https://harigamesdev.itch.io/)  
-[![Discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://discord.gg/6DzatWFnZX)  
 
 ---
 
